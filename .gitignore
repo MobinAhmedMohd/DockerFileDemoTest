@@ -1,0 +1,16 @@
+/target/
+/.classpath
+/.project
+/.settings/
+/catalina.base_IS_UNDEFINED/
+/src/main/resources/applicationContext-local-umg-phx.xml
+/src/main/resources/applicationContext-local-wmg-phx.xml
+/src/main/resources/applicationContext-local-umg.xml
+/src/main/resources/applicationContext-local-wmg.xml
+/src/main/resources/logback-local-umg.xml
+/src/main/resources/logback-local-wmg.xml
+/src/test/resources/applicationContext-test-local-umg.xml
+/src/test/resources/applicationContext-test-local-wmg.xml
+/build/
+/target_1
+/bin/
